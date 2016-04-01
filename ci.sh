@@ -3,8 +3,6 @@ cd $(dirname $0)
 
 set -e
 
-./gradlew clean build
 sudo rm -rf build
-
-mvn clean package -Dmaven.test.skip=true
+mvn clean
 sudo rm -rf target

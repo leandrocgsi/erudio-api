@@ -1,8 +1,4 @@
 language: java
-
-before_install:
-    - sudo apt-get update
-    - sudo apt-get install groovy
-
+sudo: required
 jdk:
-  - oraclejdk8
+  - oraclejdk8  
