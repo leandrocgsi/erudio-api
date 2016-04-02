@@ -4,6 +4,7 @@ Erudio Spring MVC 4
 This project has been implemented based in [Spring MVC 4 Quickstart Maven Archetype](https://github.com/kolorobot/spring-mvc-quickstart-archetype)
 
 [![Build Status](https://travis-ci.org/leandrocgsi/erudio-api.svg?branch=master)](https://travis-ci.org/leandrocgsi/erudio-api)
+[![Build Status](https://circleci.com/gh/leandrocgsi/erudio-api.svg?&style=shield)](https://circleci.com/gh/leandrocgsi/erudio-api/)
 
 Summary
 -------
