@@ -4,5 +4,5 @@ cd $(dirname $0)
 set -e
 
 sudo rm -rf build
-mvn clean
+mvn clean -X
 sudo rm -rf target
