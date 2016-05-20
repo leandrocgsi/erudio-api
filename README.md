@@ -19,6 +19,17 @@ Generated project characteristics
 * Spring Security
 * REST
 
+
+
+How to get this project
+-------------------------
+
+You can execute following command or as you prefer [download zip here](https://github.com/leandrocgsi/erudio-api/archive/master.zip) and import in your favourite IDE.
+
+```sh
+git clone https://github.com/leandrocgsi/erudio-api.git
+```
+
 Run the project
 ----------------
 
